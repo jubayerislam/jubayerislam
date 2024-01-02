@@ -8,7 +8,7 @@
 
 💬 Ask me about PHP, Laravel, Vue.js, or anything tech-related! I'm always happy to discuss and share knowledge.
 
-📫 How to reach me: Drop me a message on [LinkedIn](your_linkedin_profile) or [Twitter](your_twitter_profile).
+📫 How to reach me: Drop me a message on [LinkedIn](https://www.linkedin.com/in/md-jubayer-islam-230282207/) or [Twitter](your_twitter_profile).
 
 😄 Pronouns: He/Him
 
