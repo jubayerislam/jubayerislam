@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on honing my skills as a Full Stack Developer.
 
-🌱 I’m currently learning advanced techniques in Vue.js and exploring serverless architecture.
+🌱 I’m currently learning advanced techniques in Vue.js and laravel.
 
 👯 I’m looking to collaborate on open-source projects that make a positive impact on the community.
 
