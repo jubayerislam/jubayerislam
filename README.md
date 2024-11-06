@@ -1,10 +1,10 @@
 ### Hi there! 👋 I'm Jubayer Islam
 
-🔭 I’m currently working on honing my skills as a Full Stack Developer.
+🔭 I’m working on honing my skills as a Full Stack Developer.
 
-🌱 I’m currently learning advanced techniques in Vue.js and laravel.
+🌱 I’m currently learning advanced techniques in Vue.js and Laravel.
 
-👯 I’m looking to collaborate on open-source projects that make a positive impact on the community.
+👯 I’m looking to collaborate on open-source projects that positively impact the community.
 
 💬 Ask me about PHP, Laravel, Vue.js, or anything tech-related! I'm always happy to discuss and share knowledge.
 
