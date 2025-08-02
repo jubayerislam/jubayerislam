@@ -88,8 +88,9 @@
 ## 🧭 Visitor Counter
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@jubayerislam?theme=rule34" alt="Visitor Count" />
+  <img src="https://shields-io-visitor-counter.vercel.app/jubayerislam?style=flat-square" alt="Visitor Counter" />
 </p>
+
 
 
 ---
