@@ -88,8 +88,9 @@
 ## 🧭 Visitor Counter
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jubayerislam&icon=0&color=0" />
+  <img src="https://count.getloli.com/get/@jubayerislam?theme=rule34" alt="Visitor Count" />
 </p>
+
 
 ---
 
