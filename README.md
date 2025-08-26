@@ -5,19 +5,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Vue.js+%2F+Laravel+Specialist;Tech+Lover+%26+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
----
+## 💫 About Me  
 
-## 💫 About Me
+- 🔭 Currently advancing my expertise as a **Full Stack Developer**, building scalable and high-performance web applications  
+- 🌱 Focused on mastering **Vue.js**, **Laravel**, and **modern software architecture** best practices  
+- 👯 Open to collaborating on **innovative open-source projects** that create real-world impact  
+- 💬 I enjoy discussing **clean code, system design, REST APIs, Laravel ecosystem, Vue.js, and modern frontend tooling**  
+- 📫 You can connect with me on **LinkedIn, Twitter, or Email** for collaboration or networking opportunities  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Beyond coding, I enjoy **problem-solving challenges, exploring emerging technologies, and writing efficient solutions**  
+- ☕ Fun fact: I love **working from cafés** and experimenting with **new gadgets & productivity tools**  
 
-- 🔭 I’m working on honing my skills as a **Full Stack Developer**
-- 🌱 Currently learning advanced **Vue.js** and **Laravel** practices
-- 👯 Looking to collaborate on **open-source projects** with real-world impact
-- 💬 Ask me about: **PHP, Laravel, Vue.js, APIs, Tailwind, Clean Code**
-- 📫 Reach me on **LinkedIn, Twitter, or Email**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I love coding in cafés ☕ and exploring new tech gadgets
 
----
 
 ## 🌍 Connect With Me
 
@@ -34,12 +33,7 @@
   <a href="https://yourwebsite.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://github.com/jubayerislam" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
-
----
 
 ## 💻 Tech Stack
 
@@ -49,8 +43,6 @@
   <img src="https://skillicons.dev/icons?i=git,wordpress,azure,nestjs,bootstrap,jquery,nginx,sqlite,vite" />
 </p>
 
-
----
 
 ## 📈 GitHub Stats
 
@@ -63,15 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerislam&layout=compact&theme=radical&hide_border=false" width="49%"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jubayerislam&theme=radical&no-frame=false&no-bg=true&margin-w=10" />
-</p>
-
----
 
 ## 🔝 Top Contributed Repositories
 
@@ -79,15 +62,11 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=jubayerislam&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
----
-
-## 🧭 Visitor Counter
+## ✨ Fun Extras  
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@jubayerislam?theme=rule34" alt="Visitor Count" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jubayerislam&theme=radical" />
 </p>
-
-
 
 
 ---
