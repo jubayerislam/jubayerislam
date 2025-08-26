@@ -43,16 +43,12 @@
 
 ## 💻 Tech Stack
 
-<details>
-  <summary>🔧 Click to view all technologies</summary>
-  <br>
-  <p align="center">
-    <!-- Display badges from your original stack here -->
-    <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,nodejs,html,css,flutter,react,aws,firebase,github,figma,mysql,mongodb,docker,django,tailwind" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=git,wordpress,azure,python,nestjs,bootstrap,jquery,nginx,apache,sqlite,vite" />
-  </p>
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,nodejs,html,css,flutter,react,aws,firebase,github,figma,mysql,mongodb,docker,django,tailwind" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,wordpress,azure,python,nestjs,bootstrap,jquery,nginx,apache,sqlite,vite" />
+</p>
+
 
 ---
 
