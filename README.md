@@ -67,8 +67,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jubayerislam&theme=radical" />
 </p>
-
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
