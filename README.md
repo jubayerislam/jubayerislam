@@ -44,9 +44,9 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,nodejs,html,css,flutter,react,aws,firebase,github,figma,mysql,mongodb,docker,django,tailwind" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,nodejs,html,css,react,aws,firebase,github,figma,mysql,mongodb,tailwind" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,wordpress,azure,python,nestjs,bootstrap,jquery,nginx,apache,sqlite,vite" />
+  <img src="https://skillicons.dev/icons?i=git,wordpress,azure,nestjs,bootstrap,jquery,nginx,apache,sqlite,vite" />
 </p>
 
 
