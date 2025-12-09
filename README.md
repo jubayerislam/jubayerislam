@@ -44,18 +44,6 @@
 </p>
 
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubayerislam&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=jubayerislam&theme=radical&hide_border=false&border_radius=4.5" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerislam&layout=compact&theme=radical&hide_border=false" width="49%"/>
-</p>
-
-
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
