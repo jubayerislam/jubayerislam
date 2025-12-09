@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Open-Source Contributor | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Vue.js+%2F+Laravel+Specialist;Tech+Lover+%26+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Vue.js+%2F+Laravel+Specialist" alt="Typing SVG" />
 </p>
 
 ## 💫 About Me  
